@@ -1,1 +1,5 @@
 DERS NOT
+
+önce uml kalan diyagramlar islendi
+
+git konusu giris yapıldı
